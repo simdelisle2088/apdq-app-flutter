@@ -1,0 +1,10 @@
+{
+  "@@locale": "en",
+  "loginTitle": "Tow Truck Access",
+  "loginSubtitle": "Find procedures",
+  "username": "Username",
+  "password": "Password",
+  "login": "Login",
+  "changeLanguage": "FR",
+  "loginErrorMessage": "Login failed. Please check your credentials."
+}
